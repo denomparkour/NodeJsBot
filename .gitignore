@@ -1,9 +1,5 @@
-src/.constants.js
-aria*.sh
 node_modules/
-downloads/
-client_secret.json
-credentials.json
+downloads
 npm-debug.log
 out/
 package-lock.json
